@@ -17,7 +17,7 @@ export default async function handler(req, res) {
     }
 
     const CLIENT_ID = '01a0348e-011f-7c46-bdad-0bf3d2848f4d';    // ЗАМЕНИТЕ!
-    const SECRET_KEY = 'MDFhMDM0OGUtMDExZi03YzQ2LWJkYWQtMGJmM2QyODQ4ZjRkOjBhYWE5NzRhLTE1Y2EtNDEyNi05NjdlLTg2ZWNhMmRlNzU3ZQ==';  // ЗАМЕНИТЕ!
+    const SECRET_KEY = 'MDFhMDM0OGUtMDExZi03YzQ2LWJkYWQtMGJmM2QyODQ4ZjRkOmVlYmM3MGE5LTkyZGItNDY4MS1hOGVkLTc5MjVkNmI5NTJhMw==';  // ЗАМЕНИТЕ!
     const SCOPE = 'GIGACHAT_API_PERS';
 
     try {
